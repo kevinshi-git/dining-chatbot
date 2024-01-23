@@ -1,2 +1,2 @@
-url:
-http://kevinshihw1cloud.s3-website-us-east-1.amazonaws.com
+Dining Chatbot is a web service that emails users restaurant recommendations based on thier conversations with the website's chatbot. Built using Python and AWS services.
+
